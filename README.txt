@@ -1,6 +1,6 @@
-🤖 Hi there 
-🌿 I’m currently learning about microservices in complex infrastructure, focused on the cloud. 
+🤖 Hi there!
 🧑🏾‍🔧 SRE, focused on being better every day, learning and sharing!
+🌿 I’m currently learning about microservices in complex infrastructure, focused on the cloud. 
 
 I know how to use it and I'm still learning 👨🏾‍🏫
 Docker
@@ -13,9 +13,9 @@ Infrastructure as code with Terraform, Ansible, Kubernetes and docker
 Cloud provider such as AWS, and several of her services, as EC2, S3, etc 💾
 
 💬 Ask me about
-Resource optimization 💲💲💲
-Automation: Ansible, Python and bash 😁
 Server optimization 🖥️
-Cloud, architecture and optimization ⛅
+Resource optimization 💲
 Networking optimization 💻
+Automation: Ansible, Python and bash 😁
+Cloud, architecture and optimization ⛅
 Orchestration: Docker, kubernetes, etc 🐳⚓

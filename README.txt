@@ -1,6 +1,6 @@
 🤖 Hi there 
 🌿 I’m currently learning about microservices in complex infrastructure, focused on the cloud. 
-
+🧑🏾‍🔧 SRE, focused on being better every day, learning and sharing!
 
 I know how to use it and I'm still learning 👨🏾‍🏫
 Docker user

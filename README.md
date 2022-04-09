@@ -1,5 +1,6 @@
-Hi there 🤖
-I’m currently learning about microservices in complex infrastructure, focused on the cloud. 🧑🏾🌿
+🤖 Hi there 
+🌿 I’m currently learning about microservices in complex infrastructure, focused on the cloud. 
+
 
 I know how to use it and I'm still learning 👨🏾‍🏫
 Docker user

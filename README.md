@@ -1,5 +1,5 @@
 #  Hi there! 🤖
-## SRE, focused on being better every day, learning and sharing! 🧑🏾‍🔧
+## SRE, focused on being better every day, learning and sharing! 🔧
 ## I’m currently learning about microservices in complex infrastructure, focused on the cloud. 🌿 
 
 ## Ask me about 💬 

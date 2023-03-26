@@ -1,13 +1,13 @@
-##  Hi there! 🤖
-- SRE, focused on being better every day, learning and sharing! 🔧
-- I’m currently learning about microservices in complex infrastructure, focused on the cloud. 🌿 
+## Hey there! 🤖 
+- I'm an SRE and my main focus is to improve every day through learning and sharing! 🔧 
+- Currently, I'm diving into the world of microservices in complex infrastructures, with a particular interest in cloud technology. 🌿
 
-### Ask me about 💬 
-- Server optimization 🖥️
-- Source optimization 💲
-- Networking optimization 💻
-- Automation: Ansible, Python and bash 😁
-- Cloud, architecture and optimization ⛅
-- Orchestration: Docker, kubernetes, etc 🐳⚓
+### Feel free to ask me about: 💬
+- Optimizing servers 🖥️
+- Optimizing source code 💲
+- Optimizing networks 💻
+- Automation with tools like Ansible, Python, and bash 😁
+- Cloud technology, architecture, and optimization ⛅
+- Orchestration tools like Docker, Kubernetes, and more! 🐳⚓
 
               

@@ -6,5 +6,5 @@
 - Automation with tools like Ansible, Python, and bash 😁
 - Cloud technology, architecture, and optimization ⛅
 - Orchestration tools like Docker, Kubernetes, and more! 🐳⚓
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
